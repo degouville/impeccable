@@ -98,7 +98,7 @@
     "@paper-design/shaders": "^0.0.77",
     "ai": "^7.0.14",
     "archiver": "^8.0.0",
-    "astro": "^7.0.0",
+    "astro": "^7.4.7",
     "fontkit": "^2.0.4",
     "modern-screenshot": "^4.7.0",
     "motion": "^12.38.0",
